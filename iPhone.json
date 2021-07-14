@@ -1,0 +1,62 @@
+{
+  "iphone":[
+    {
+      "phoneType": "iphone12Pro",
+      "content": [
+            {
+              "capacity":"128",
+              "price": "33900",
+              "tax": "1614",
+              "perCost":"2825"
+            },
+            {
+              "capacity":"256",
+              "price": "37400",
+              "tax": "1781",
+              "perCost":"3116"
+            },
+            {
+              "capacity":"256",
+              "price": "44000",
+              "tax": "2114",
+              "perCost":"3700"
+            }
+        ],
+      "imageType":{
+            "blackImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
+            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
+            "blueImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
+        }
+    },
+    {
+      "phoneType": "iphone12ProMax",
+      "content": [
+            {
+              "capacity":"128",
+              "price": "37900",
+              "tax": "1805",
+              "perCost":"3158"
+            },
+            {
+              "capacity":"256",
+              "price": "41400",
+              "tax": "1971",
+              "perCost":"3450"
+            },
+            {
+              "capacity":"256",
+              "price": "48400",
+              "tax": "2305",
+              "perCost":"4033"
+            }
+        ],
+      "imageType":{
+            "blackImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000",
+            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000",
+            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "blueImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+        }
+    }
+  ]
+}
