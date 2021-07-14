@@ -24,8 +24,8 @@
         ],
       "imageType":{
             "darkImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
-            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
-            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
+            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021661000",
+            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021659000",
             "blueImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
         }
     },
@@ -53,8 +53,8 @@
         ],
       "imageType":{
             "darkImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000",
-            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000",
-            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "silverImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021658000",
+            "goldImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000",
             "blueImage":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
         }
     }
