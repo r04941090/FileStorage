@@ -16,7 +16,7 @@
               "perCost":"3116"
             },
             {
-              "capacity":"256",
+              "capacity":"512",
               "price": "44000",
               "tax": "2114",
               "perCost":"3700"
@@ -45,7 +45,7 @@
               "perCost":"3450"
             },
             {
-              "capacity":"256",
+              "capacity":"512",
               "price": "48400",
               "tax": "2305",
               "perCost":"4033"
