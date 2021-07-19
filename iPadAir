@@ -1,0 +1,23 @@
+{
+  "iPadAir":{
+    "apperance":{
+      "gray":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650646000",
+      "silver":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000",
+      "gold":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000",
+      "green":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000",
+      "blue":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000"
+    },
+    "content":[
+        {
+          "storage":"64",
+          "wiFi":"18900",
+          "wiFi-Network":"23200"
+        },
+        {
+          "storage":"256",
+          "wiFi":"23900",
+          "wiFi-Network":"28200"
+        }
+    ]
+  }
+}
