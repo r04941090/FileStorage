@@ -1,8 +1,8 @@
 {
   "blog_title": "test1111",
   "blog_description": "測試用",
-  "cover_image": "",
-  "content":[
+  "blog_coverImage": "",
+  "blog_content":[
     {
       "Date": "1",
       "Reveal": false,
