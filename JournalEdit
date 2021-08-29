@@ -1,8 +1,8 @@
 {
-  "blog_title": "test1111",
-  "blog_description": "測試用",
-  "blog_coverImage": "",
-  "blog_content":[
+  "journal_title": "test1111",
+  "journal_description": "測試用",
+  "journal_coverImage": "",
+  "journal_content":[
     {
       "Date": "1",
       "Reveal": false,
