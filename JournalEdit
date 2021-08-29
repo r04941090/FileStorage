@@ -1,37 +1,59 @@
-[
-  {
-    "Date": "1",
-    "Tour": [
-      {
-        "id": 1,
-        "name": "七星潭",
-        "staytime": "1小時30分"
-      },
-      {
-        "id": 2,
-        "name": "翡翠谷",
-        "staytime":"30分"
-      },
-      {
-        "id": 3,
-        "name": "花蓮文化創意產業園區",
-        "staytime": "50分"
-      }
-    ]
-  },
-  {
-    "Date": "2",
-    "Tour": [
-      {
-        "id": 1,
-        "name": "東大門夜市",
-        "staytime":"1小時"
-      },
-      {
-        "id": 2,
-        "name": "四八高地",
-        "staytime":"20分"
-      }
-    ]
-  }
-]
+{
+  "blog_title": "test1111",
+  "blog_description": "測試用",
+  "cover_image": "",
+  "content":[
+    {
+      "Date": "1",
+      "Reveal": false,
+      "Tour": [
+        {
+          "id": 1,
+          "name": "七星潭",
+          "staytime": "1小時30分",
+          "Reveal": false,
+          "place_image": [],
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "翡翠谷",
+          "staytime":"30分",
+          "Reveal": false,
+          "place_image": [],
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "花蓮文化創意產業園區",
+          "staytime": "50分",
+          "Reveal": false,
+          "place_image": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "Date": "2",
+      "Reveal": false,
+      "Tour": [
+        {
+          "id": 1,
+          "name": "東大門夜市",
+          "staytime":"1小時",
+          "Reveal": false,
+          "place_image": [],
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "四八高地",
+          "staytime":"20分",
+          "Reveal": false,
+          "place_image": [],
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
