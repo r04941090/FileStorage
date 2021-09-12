@@ -5,7 +5,6 @@
   "journal_content":[
     {
       "Date": "1",
-      "Reveal": false,
       "Tour": [
         {
           "id": 1,
@@ -35,7 +34,6 @@
     },
     {
       "Date": "2",
-      "Reveal": false,
       "Tour": [
         {
           "id": 1,
