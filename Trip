@@ -2,6 +2,7 @@
   "UserId": 1,
   "TripId": 1,
   "UserImg": "https://res.cloudinary.com/ditncduk1/image/upload/v1631763156/user_pq6faw.jpg",
+  "UserName": "Kevin",
   "TripTitle": "台北七天六夜",
   "StartDate": "2021-09-10",
   "EndDate": "2021-09-16",
