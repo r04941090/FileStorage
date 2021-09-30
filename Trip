@@ -3,10 +3,10 @@
     "TripId": 44,
     "UserImg": "https://pic1.zhimg.com/v2-c1126a4b41b34a65efd8f915a732b7e1_1440w.jpg?source=172ae18b",
     "UserName": "Sherry",
-    "TripTitle": "台北四天三夜",
-    "StartDate": "2021-9-29",
-    "EndDate": "2021-10-2",
-    "TotalDate": 4,
+    "TripTitle": "台北六天五夜",
+    "StartDate": "2021-09-29",
+    "EndDate": "2021-10-4",
+    "TotalDate": 6,
     "TripContent": [
         {
             "Id": 1,
@@ -46,7 +46,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 2,
-            "StartTime": null,
+            "StartTime": "09:00",
             "PlaceName": "build school",
             "StayTime": "1小時 0分"
         },
@@ -60,7 +60,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 3,
-            "StartTime": null,
+            "StartTime": "09:00",
             "PlaceName": "霞海城隍廟",
             "StayTime": "0小時 30分"
         },
@@ -130,7 +130,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 2,
-            "StartTime": null,
+            "StartTime": "10:00",
             "PlaceName": "士林夜市",
             "StayTime": "3小時 30分"
         },
@@ -144,7 +144,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 3,
-            "StartTime": null,
+            "StartTime": "10:00",
             "PlaceName": "捷運內湖站",
             "StayTime": "0小時 30分"
         },
@@ -158,7 +158,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 4,
-            "StartTime": null,
+            "StartTime": "10:00",
             "PlaceName": "輔仁大學",
             "StayTime": "1小時 0分"
         },
@@ -172,7 +172,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 5,
-            "StartTime": null,
+            "StartTime": "10:00",
             "PlaceName": "三重運動中心",
             "StayTime": "2小時 0分"
         },
@@ -214,7 +214,7 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 2,
-            "StartTime": null,
+            "StartTime": "08:00",
             "PlaceName": "大稻埕碼頭廣場",
             "StayTime": "1小時 20分"
         },
@@ -228,9 +228,37 @@
             "Date": null,
             "Weekday": null,
             "Sequence": 3,
-            "StartTime": null,
+            "StartTime": "08:00",
             "PlaceName": "西門町",
             "StayTime": "0小時 30分"
+        },
+        {
+            "Id": 17,
+            "DayId": 46,
+            "TripDetailId": 0,
+            "Type": "Day",
+            "Color": "#b6b75f",
+            "Day": 5,
+            "Date": "10月3日",
+            "Weekday": "星期日",
+            "Sequence": 0,
+            "StartTime": "09:00",
+            "PlaceName": null,
+            "StayTime": null
+        },
+        {
+            "Id": 18,
+            "DayId": 45,
+            "TripDetailId": 0,
+            "Type": "Day",
+            "Color": "f4a94e",
+            "Day": 6,
+            "Date": "10月4日",
+            "Weekday": "星期一",
+            "Sequence": 0,
+            "StartTime": "13:00",
+            "PlaceName": null,
+            "StayTime": null
         }
     ],
     "AttractionCollection": null
