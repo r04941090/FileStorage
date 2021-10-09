@@ -1,0 +1,200 @@
+[
+  {
+    "PostDate": "10月7日 (四)",
+    "MessageBox": [
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Marry",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ueeplpeutbfznjcfjcgq.jpg",
+        "PostType": "上午",
+        "PostTime": "11:57",
+        "TotalMessage": [
+          {
+            "CommentId": 1,
+            "Message": "助教弄的...",
+            "ReadQuantity":5
+          },
+          {
+            "CommentId": 2,
+            "Message": "剛剛也是他傳的",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "上午",
+        "PostTime": "11:57",
+        "TotalMessage": [
+          {
+            "CommentId": 3,
+            "Message": "快學 靠你惹",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "上午",
+        "PostTime": "11:59",
+        "TotalMessage": [
+          {
+            "CommentId": 4,
+            "Message": "因為我改了之後要去建才會有天數 這是什麼意思",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Sandy",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ps8ou4xqesp6keeqyjaa.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 5,
+            "Message": "之前直接從資料庫建的Trip都沒有相對過去TripDay的資料",
+            "ReadQuantity":5
+          },
+          {
+            "CommentId": 6,
+            "Message": "所以我今天撈TripDay的天數會是零",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 7,
+            "Message": "懂，目前只有TripId=44有對應",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Marry",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ueeplpeutbfznjcfjcgq.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 8,
+            "Message": "嗯嗯 那我把全部TripId都對應過去好了 這樣以後應該就不會有問題",
+            "ReadQuantity":5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PostDate": "10月8日 (五)",
+    "MessageBox": [
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Marry",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ueeplpeutbfznjcfjcgq.jpg",
+        "PostType": "上午",
+        "PostTime": "11:57",
+        "TotalMessage": [
+          {
+            "CommentId": 1,
+            "Message": "助教弄的...",
+            "ReadQuantity":5
+          },
+          {
+            "CommentId": 2,
+            "Message": "剛剛也是他傳的",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "上午",
+        "PostTime": "11:57",
+        "TotalMessage": [
+          {
+            "CommentId": 3,
+            "Message": "快學 靠你惹",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "上午",
+        "PostTime": "11:59",
+        "TotalMessage": [
+          {
+            "CommentId": 4,
+            "Message": "因為我改了之後要去建才會有天數 這是什麼意思",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Sandy",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ps8ou4xqesp6keeqyjaa.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 5,
+            "Message": "之前直接從資料庫建的Trip都沒有相對過去TripDay的資料",
+            "ReadQuantity":5
+          },
+          {
+            "CommentId": 6,
+            "Message": "所以我今天撈TripDay的天數會是零",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Kevin",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 7,
+            "Message": "懂，目前只有TripId=44有對應",
+            "ReadQuantity":5
+          }
+        ]
+      },
+      {
+        "CurrentUserName": "Kevin",
+        "UserName": "Marry",
+        "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ueeplpeutbfznjcfjcgq.jpg",
+        "PostType": "下午",
+        "PostTime": "12:30",
+        "TotalMessage": [
+          {
+            "CommentId": 8,
+            "Message": "嗯嗯 那我把全部TripId都對應過去好了 這樣以後應該就不會有問題",
+            "ReadQuantity":5
+          }
+        ]
+      }
+    ]
+  }
+]
