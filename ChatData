@@ -26,7 +26,7 @@
           ]
         },
         {
-          "CurrentUser": "Kevin",
+          "CurrentUserName": "Kevin",
           "UserName": "Kevin",
           "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
           "PostType": "上午",
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "CurrentUser": "Kevin",
+          "CurrentUserName": "Kevin",
           "UserName": "Kevin",
           "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
           "PostType": "上午",
@@ -54,7 +54,7 @@
           ]
         },
         {
-          "CurrentUser": "Kevin",
+          "CurrentUserName": "Kevin",
           "UserName": "Sandy",
           "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ps8ou4xqesp6keeqyjaa.jpg",
           "PostType": "下午",
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "CurrentUser": "Kevin",
+          "CurrentUserName": "Kevin",
           "UserName": "Kevin",
           "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765873/User/e2qmuwkxojwgkrxcvakp.jpg",
           "PostType": "下午",
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "CurrentUser": "Kevin",
+          "CurrentUserName": "Kevin",
           "UserName": "Marry",
           "UserImage": "https://res.cloudinary.com/ditncduk1/image/upload/v1633765878/User/ueeplpeutbfznjcfjcgq.jpg",
           "PostType": "下午",
